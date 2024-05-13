@@ -1,4 +1,4 @@
-# Student Name - Kushmi Anuthththara Chandrasena
+# Kushmi Anuthththara Chandrasena
 
 #-----------------Question 01------------------------------------------
 
